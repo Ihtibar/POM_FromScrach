@@ -1,9 +1,7 @@
-package Tests.Pages;
+package Pages;
 
 import Utility.TestBase;
 import Utility.configReader;
-import Utility.credentials;
-import com.sun.tools.internal.jxc.ConfigReader;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;

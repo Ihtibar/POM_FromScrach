@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="50c1b4e3-4ae3-4049-ab30-d3709cd23b1d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/config.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/Pages/Elements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Utility/configReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Utility/credentials.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Tests/YahooTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tests/YahooTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Utility/MyLibrary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Utility/MyLibrary.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Utility/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Utility/TestBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Tests/YahooTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Tests/YahooTest.class" afterDir="false" />
-    </list>
+    <list default="true" id="50c1b4e3-4ae3-4049-ab30-d3709cd23b1d" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,7 +12,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/Tests/YahooTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="163">
@@ -57,7 +47,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/Utility/credentials.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
@@ -218,7 +208,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551216988219" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551217405274" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -304,6 +294,14 @@
       <option name="presentableId" value="Default" />
       <updated>1551123016812</updated>
     </task>
+    <task id="LOCAL-00001" summary="lateTest">
+      <created>1551216978582</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1551216978582</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -370,6 +368,10 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
     </layout>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="lateTest" />
+    <option name="LAST_COMMIT_MESSAGE" value="lateTest" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
@@ -424,16 +426,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Tests/YahooTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="163">
-          <caret line="34" selection-start-line="34" selection-end-line="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -452,6 +444,16 @@
             <element signature="e#340#341#0" expanded="true" />
             <element signature="e#380#381#0" expanded="true" />
             <element signature="e#410#411#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Tests/YahooTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
